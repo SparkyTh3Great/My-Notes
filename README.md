@@ -6,4 +6,8 @@ What Kinda Stuff To Expect:
 - Weeknotes
 - Yap about stuff i find cool
 - Stuff. definetly stuff.
-OK thanks!
+
+OK thanks!<br>
+
+- [Weeknotes](weeknotes.md)  <br>
+- [Other Projects](projects.md)
